@@ -1,0 +1,55 @@
+Conosci,Si_pre,No_pre,Definizione_pre,Punteggio_pre
+convegno,,x,,0
+complesso,x,,Una cosa difficile che non capisci,3
+comprensione,x,,"Per esempio del testo, che hai capito",2
+pianura,x,,"Pianura padana, tre colline rialzate",2
+isolata,x,,Isola che non è attaccata alle altre,0 1
+gregge,x,,Insieme un gruppo di cavalli,1
+razza,x,,Non te lo dire ma so cosa significa,1
+discorso,x,,"Se parli in pubblico, se dai spiegazioni ad altri anche in privato",2 3
+accompagnata,x,,Per andare ti accompagna tuo padre se sei piccolo,2
+allergico,x,,"Non puoi sentire l’odore, tipo al gatto, sennò si sente male",1 2
+offeso,x,,Ti hanno trattato male e sei offeso di quello che ti hanno detto,2
+antilope,,x,,0
+filò,,x,,0
+viaggiatore,x,,Che viaggia,1 2
+mari,x,,è il mare,1 2
+auricolari,x,,"Che stanno all’orecchio che sentono, tipo le guardie del corpo",2
+distinta,,x,,0
+discutere,x,,"Di un argomento, sai quella cosa",2
+illuminare,x,,Con la luce una stanza,2 3
+candelabri,x,,Stanghetta con dei pezzi sopra e ci metti le candele,1 2
+salutò,x,,Un saluto,1 2
+interessa,x,,Che ti interessa un argomento,1 2
+dormire,x,,Che dormi hai sonno,1 2
+fischio,x,,Del bagnino quando vai lontano,2
+parrucchiere,x,,Quello che ti fa i capelli,3
+ragioni,x,,Quando ragioni sull’argomento,1 2
+osservare,x,,Osservi una persona o un compito,2
+riposare,x,,Sei tornato da una cosa faticosa e ti riposa,2
+dispiaciuta,x,,"Del tuo comportamento, se tratti male qualcuno",0 2
+regali,x,,"Te li fanno al compleanno, Natale",2
+chisciotte,,x,,0
+contenuto,x,,"Di un libro, per esempio le parole",1 2
+statura,x,,Della porta finestra è molto alta,0 1
+termometro,x,,Che ti misura quando stai male,2
+statura,,,,
+termometro,,,,
+appendicite,x,,Mi sembra una malattia,3
+condizionata,x,,"Di fare quella cosa, voglio fare una cosa ma non la puoi fare perché bambino",0 1
+istruttrice,x,,"Di nuoto,ti insegna come nuotare o altri sport",2
+impiegò,x,,Impieghi impegni per fare una cosa,1 2
+conservare,x,,Conservare una cosa per il futuro,1 2
+malessere,x,,"Che sei cattivo, non riesco a specificare",1
+ululare,x,,"Tipo i lupi quando arriva la luna piena, anche il mio cane ulula",2
+proprietario,x,,Di quel museo o della casa che devi rispettare perché è il capo,2
+realtà,x,,Non te la so specificare,0 1
+lunghezza,x,,"Di qualcosa, di un oggetto o persona",2 1
+struttura,x,,"Una cosa che è stata costruita, per esempio la casa Bianca",2
+bouquet,x,,Quando la sposa si fidanza e lo tira poi si fidanzano,1 2
+membri,x,,Di un gruppo,2
+trofei,x,,"Quelli che vinci, per esempio a basket",3
+turni,x,,Per esempio i poliziotti che stanno 3 ore e poi un altro 2 ore,3
+volante,x,,Una cosa che vola,0 3
+zona,x,,Per esempio una via,2
+impavido,,x,,0
