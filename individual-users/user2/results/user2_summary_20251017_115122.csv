@@ -1,0 +1,15 @@
+Metric,Value
+Overall Accuracy (%),92.0
+Total Questions Analyzed,100
+Total Stories,10
+Best Story Accuracy (%),100.0
+Worst Story Accuracy (%),80.0
+Average Story Accuracy (%),92.0
+Standard Deviation (%),9.2
+Best Story Title,il cane poeta
+Worst Story Title,burrasca!
+Early Period Accuracy (%),75.5
+Late Period Accuracy (%),98.1
+Temporal Improvement (%),+22.6
+Questions with Multiple Attempts,6
+Analysis Date,20251017_115122

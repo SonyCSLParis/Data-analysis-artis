@@ -1,0 +1,101 @@
+Story_Title,Question,Attempt_Count,First_Correct,Last_Correct,Improvement_Pattern
+dino resta a casa,Che giorno è nella storia?,5,True,True,Stayed Correct
+dino resta a casa,Chi è Dino?,5,False,False,Stayed Wrong
+dino resta a casa,Chi è Joe?,5,True,True,Stayed Correct
+dino resta a casa,Cosa chiede Viola alla mamma prima di alzarsi?,6,False,False,Stayed Wrong
+dino resta a casa,Cosa deve fare la mamma di Viola?,5,True,True,Stayed Correct
+dino resta a casa,Cosa fa Viola prima di uscire?,5,True,True,Stayed Correct
+dino resta a casa,Cosa pensa Viola alla fine?,5,False,True,Improved
+dino resta a casa,Cosa scopre Viola?,5,True,True,Stayed Correct
+dino resta a casa,Dove controlla Viola se ha preso tutto?,5,True,True,Stayed Correct
+dino resta a casa,Dove porta la mamma Viola?,5,True,True,Stayed Correct
+dov'è biancaneve?,Chi accompagna Cappuccetto Rosso verso casa della nonna?,2,True,True,Stayed Correct
+dov'è biancaneve?,Chi incontra Cappuccetto Rosso nel bosco?,2,True,True,Stayed Correct
+dov'è biancaneve?,Chi è la protagonista della storia?,2,True,True,Stayed Correct
+dov'è biancaneve?,Come reagisce Cappuccetto Rosso quando si ricorda della nonna?,2,True,True,Stayed Correct
+dov'è biancaneve?,Come vanno tutti insieme?,2,False,False,Stayed Wrong
+dov'è biancaneve?,Cosa chiedono i sette nani?,2,True,True,Stayed Correct
+dov'è biancaneve?,Cosa le chiede la mamma?,2,True,True,Stayed Correct
+dov'è biancaneve?,Cosa le raccomanda la mamma?,2,True,True,Stayed Correct
+dov'è biancaneve?,Dove pensano di trovare Biancaneve?,2,True,True,Stayed Correct
+dov'è biancaneve?,Perché corrono alla casa della nonna?,2,True,True,Stayed Correct
+il mago dormiglione,Chi è il protagonista della storia?,2,True,True,Stayed Correct
+il mago dormiglione,Come presenta il mago i suoi allievi alla commissione?,2,False,False,Stayed Wrong
+il mago dormiglione,Cosa facevano i piccoli maghi quando il mago dormiva?,2,True,True,Stayed Correct
+il mago dormiglione,Cosa trasformavano in lombrichi?,2,True,True,Stayed Correct
+il mago dormiglione,Cosa versavano nelle tasche del mago?,2,True,True,Stayed Correct
+il mago dormiglione,Dove insegnava il mago?,2,True,True,Stayed Correct
+il mago dormiglione,Martino era specialista in cosa?,3,True,False,Worsened
+il mago dormiglione,Qual è la scoperta dei bambini alla fine?,2,True,True,Stayed Correct
+il mago dormiglione,Quale giorno arriva la commissione di maghi?,2,True,True,Stayed Correct
+il mago dormiglione,"Quando si svegliava il mago, come trovava gli allievi?",2,True,False,Worsened
+l'orologio,A che ora torna il papà?,4,True,True,Stayed Correct
+l'orologio,A chi piace guardare l’orologio?,4,False,False,Stayed Wrong
+l'orologio,A chi voleva raccontare tutto Filippo?,4,False,False,Stayed Wrong
+l'orologio,Come si sentiva Filippo quella sera?,4,False,False,Stayed Wrong
+l'orologio,Cosa faceva la mamma mentre Filippo guardava l’orologio?,4,True,True,Stayed Correct
+l'orologio,Cosa gli aveva spiegato la mamma?,4,True,True,Stayed Correct
+l'orologio,Cosa ha fatto Filippo a scuola?,4,False,False,Stayed Wrong
+l'orologio,Cosa hanno fatto i compagni quando Filippo ha spiegato l’orologio?,4,True,True,Stayed Correct
+l'orologio,Dove guardava Filippo per capire l’ora?,4,True,True,Stayed Correct
+l'orologio,Qual è la lancetta che corre più veloce?,4,False,True,Improved
+troppo bianchi,Chi arriva correndo e salta sulla schiena dell’ermellino?,3,True,True,Stayed Correct
+troppo bianchi,Chi fa il giudice?,3,True,True,Stayed Correct
+troppo bianchi,Chi spiava il topolino nella neve?,4,False,True,Improved
+troppo bianchi,Come reagisce l’ermellino?,3,True,True,Stayed Correct
+troppo bianchi,Cosa decide l’orso?,3,True,True,Stayed Correct
+troppo bianchi,Cosa fa l’orso alla fine?,3,True,False,Worsened
+troppo bianchi,Dove finisce la discussione?,3,True,True,Stayed Correct
+troppo bianchi,Perché la lepre ora ha le orecchie nere?,3,True,True,Stayed Correct
+troppo bianchi,Perché l’ermellino ha un ciuffo nero sulla coda?,5,False,True,Improved
+troppo bianchi,Perché l’ermellino si è confuso?,3,True,True,Stayed Correct
+tutti in gita!,Che giorno è nella storia?,4,True,True,Stayed Correct
+tutti in gita!,Come si sentono le maestre alla fine?,4,True,True,Stayed Correct
+tutti in gita!,Con chi partono?,4,False,False,Stayed Wrong
+tutti in gita!,Cosa dicono gli altri bambini quando vedono il bambino bere l’acqua salata?,4,True,True,Stayed Correct
+tutti in gita!,Cosa fa il bambino appena arriva in spiaggia?,4,True,True,Stayed Correct
+tutti in gita!,Cosa fanno i bambini sul pullman?,4,True,True,Stayed Correct
+tutti in gita!,Cosa grida un bambino appena vede il mare?,4,True,True,Stayed Correct
+tutti in gita!,Cosa pensa una maestra quando il bambino vuole bere l’acqua del mare?,4,False,False,Stayed Wrong
+tutti in gita!,Dove vanno i bambini?,4,True,True,Stayed Correct
+tutti in gita!,Perché le maestre si disperano?,4,True,True,Stayed Correct
+un fantasma a pallini,Come si chiama il fantasma?,3,True,True,Stayed Correct
+un fantasma a pallini,Come si sente Macchia con il lenzuolo a pallini?,3,False,False,Stayed Wrong
+un fantasma a pallini,Con cosa si macchia alla cioccolateria?,3,True,True,Stayed Correct
+un fantasma a pallini,Con cosa si macchia nel prato?,3,True,True,Stayed Correct
+un fantasma a pallini,Cosa deve fare ogni mattina Macchia?,3,True,True,Stayed Correct
+un fantasma a pallini,Cosa fa Macchia alla fine della storia?,3,False,False,Stayed Wrong
+un fantasma a pallini,Cosa fa il fantasma ogni notte?,3,True,True,Stayed Correct
+un fantasma a pallini,Dove compra il nuovo lenzuolo?,3,True,True,Stayed Correct
+un fantasma a pallini,Dove si macchia di pomodoro?,3,False,False,Stayed Wrong
+un fantasma a pallini,Perché Macchia compra un lenzuolo a pallini?,3,True,True,Stayed Correct
+un libro divertente,Chi sono le protagoniste?,4,True,True,Stayed Correct
+un libro divertente,Come si chiama il libro che sta leggendo Giulia?,4,True,True,Stayed Correct
+un libro divertente,Come termina la telefonata?,4,True,True,Stayed Correct
+un libro divertente,Com’è la copertina del libro?,4,True,True,Stayed Correct
+un libro divertente,Cosa decide Paola di fare?,4,True,True,Stayed Correct
+un libro divertente,Cosa fa Giulia un lunedì sera?,4,True,True,Stayed Correct
+un libro divertente,Cosa racconta Giulia a Paola?,4,True,True,Stayed Correct
+un libro divertente,Cosa succede mentre legge?,4,True,True,Stayed Correct
+un libro divertente,Dove si trova il libro in biblioteca?,4,False,True,Improved
+un libro divertente,Quanti capitoli ha già letto Giulia?,4,False,True,Improved
+una bella sorpresa,Che animale disegna Angelo?,2,True,True,Stayed Correct
+una bella sorpresa,Che animale disegna Maura?,2,True,True,Stayed Correct
+una bella sorpresa,Chi chiama i bambini?,2,True,True,Stayed Correct
+una bella sorpresa,Come si sentono i bambini alla fine?,2,False,False,Stayed Wrong
+una bella sorpresa,Come viene descritto il gattino?,2,True,False,Worsened
+una bella sorpresa,Cosa disegna Maura?,2,True,True,Stayed Correct
+una bella sorpresa,Cosa stanno facendo Maura e Angelo?,2,True,True,Stayed Correct
+una bella sorpresa,Cosa trovano i bambini uscendo?,2,True,True,Stayed Correct
+una bella sorpresa,Cosa vuole mettere Angelo nel giardino?,2,True,True,Stayed Correct
+una bella sorpresa,Di che colore è il gattino disegnato da Angelo?,3,True,False,Worsened
+una sciarpa per la scuola,Che cosa pende dai ferri da maglia?,2,True,True,Stayed Correct
+una sciarpa per la scuola,Chi può aiutare a fare la sciarpa?,2,True,True,Stayed Correct
+una sciarpa per la scuola,Cosa chiede Riccardo?,2,True,True,Stayed Correct
+una sciarpa per la scuola,Cosa fa il maestro Camillo la sera?,2,False,False,Stayed Wrong
+una sciarpa per la scuola,Cosa fanno i bambini quando sentono l’idea del maestro?,2,True,True,Stayed Correct
+una sciarpa per la scuola,Cosa propone il maestro ai bambini?,2,True,True,Stayed Correct
+una sciarpa per la scuola,Cosa tira fuori il maestro Camillo dallo zaino?,2,True,True,Stayed Correct
+una sciarpa per la scuola,Cosa vuole fare il maestro con la sciarpa?,2,True,True,Stayed Correct
+una sciarpa per la scuola,Perché il maestro vuole fare la sciarpa più lunga del mondo?,2,True,False,Worsened
+una sciarpa per la scuola,Qual è il messaggio del maestro Camillo?,2,True,True,Stayed Correct

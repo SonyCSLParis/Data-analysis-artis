@@ -1,0 +1,15 @@
+Metric,Value
+Overall Accuracy (%),79.0
+Total Questions Analyzed,100
+Total Stories,10
+Best Story Accuracy (%),100.0
+Worst Story Accuracy (%),50.0
+Average Story Accuracy (%),79.0
+Standard Deviation (%),16.0
+Best Story Title,alfonsina strada
+Worst Story Title,la festa di halloween
+Early Period Accuracy (%),76.0
+Late Period Accuracy (%),70.3
+Temporal Improvement (%),-5.7
+Questions with Multiple Attempts,100
+Analysis Date,20251017_115515

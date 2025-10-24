@@ -1,0 +1,15 @@
+Metric,Value
+Overall Accuracy (%),72.5
+Total Questions Analyzed,69
+Total Stories,7
+Best Story Accuracy (%),90.0
+Worst Story Accuracy (%),50.0
+Average Story Accuracy (%),72.5
+Standard Deviation (%),14.8
+Best Story Title,due grandi amici
+Worst Story Title,la festa di halloween
+Early Period Accuracy (%),72.5
+Late Period Accuracy (%),66.1
+Temporal Improvement (%),-6.4
+Questions with Multiple Attempts,63
+Analysis Date,20251020_103742

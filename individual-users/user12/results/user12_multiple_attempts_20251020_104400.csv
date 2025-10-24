@@ -1,0 +1,91 @@
+Story_Title,Question,Attempt_Count,First_Correct,Last_Correct,Improvement_Pattern
+dino resta a casa,Che giorno è nella storia?,5,True,True,Stayed Correct
+dino resta a casa,Chi è Dino?,5,False,False,Stayed Wrong
+dino resta a casa,Chi è Joe?,5,True,True,Stayed Correct
+dino resta a casa,Cosa chiede Viola alla mamma prima di alzarsi?,6,False,False,Stayed Wrong
+dino resta a casa,Cosa deve fare la mamma di Viola?,5,True,True,Stayed Correct
+dino resta a casa,Cosa fa Viola prima di uscire?,5,True,True,Stayed Correct
+dino resta a casa,Cosa pensa Viola alla fine?,5,False,True,Improved
+dino resta a casa,Cosa scopre Viola?,5,True,True,Stayed Correct
+dino resta a casa,Dove controlla Viola se ha preso tutto?,5,True,True,Stayed Correct
+dino resta a casa,Dove porta la mamma Viola?,5,True,True,Stayed Correct
+l'orologio,A che ora torna il papà?,4,True,True,Stayed Correct
+l'orologio,A chi piace guardare l’orologio?,4,False,False,Stayed Wrong
+l'orologio,A chi voleva raccontare tutto Filippo?,4,False,False,Stayed Wrong
+l'orologio,Come si sentiva Filippo quella sera?,4,False,False,Stayed Wrong
+l'orologio,Cosa faceva la mamma mentre Filippo guardava l’orologio?,4,True,True,Stayed Correct
+l'orologio,Cosa gli aveva spiegato la mamma?,4,True,True,Stayed Correct
+l'orologio,Cosa ha fatto Filippo a scuola?,4,False,False,Stayed Wrong
+l'orologio,Cosa hanno fatto i compagni quando Filippo ha spiegato l’orologio?,4,True,True,Stayed Correct
+l'orologio,Dove guardava Filippo per capire l’ora?,4,True,True,Stayed Correct
+l'orologio,Qual è la lancetta che corre più veloce?,4,False,True,Improved
+troppo bianchi,Chi arriva correndo e salta sulla schiena dell’ermellino?,4,True,True,Stayed Correct
+troppo bianchi,Chi fa il giudice?,4,True,True,Stayed Correct
+troppo bianchi,Chi spiava il topolino nella neve?,5,False,True,Improved
+troppo bianchi,Come reagisce l’ermellino?,4,True,True,Stayed Correct
+troppo bianchi,Cosa decide l’orso?,4,True,False,Worsened
+troppo bianchi,Cosa fa l’orso alla fine?,4,True,True,Stayed Correct
+troppo bianchi,Dove finisce la discussione?,4,True,True,Stayed Correct
+troppo bianchi,Perché la lepre ora ha le orecchie nere?,4,True,True,Stayed Correct
+troppo bianchi,Perché l’ermellino ha un ciuffo nero sulla coda?,6,True,True,Stayed Correct
+troppo bianchi,Perché l’ermellino si è confuso?,5,True,False,Worsened
+tutti in gita!,Che giorno è nella storia?,4,True,True,Stayed Correct
+tutti in gita!,Come si sentono le maestre alla fine?,4,True,True,Stayed Correct
+tutti in gita!,Con chi partono?,4,False,False,Stayed Wrong
+tutti in gita!,Cosa dicono gli altri bambini quando vedono il bambino bere l’acqua salata?,4,True,True,Stayed Correct
+tutti in gita!,Cosa fa il bambino appena arriva in spiaggia?,4,True,True,Stayed Correct
+tutti in gita!,Cosa fanno i bambini sul pullman?,4,True,True,Stayed Correct
+tutti in gita!,Cosa grida un bambino appena vede il mare?,4,True,True,Stayed Correct
+tutti in gita!,Cosa pensa una maestra quando il bambino vuole bere l’acqua del mare?,4,False,False,Stayed Wrong
+tutti in gita!,Dove vanno i bambini?,4,True,True,Stayed Correct
+tutti in gita!,Perché le maestre si disperano?,4,True,True,Stayed Correct
+un fantasma a pallini,Come si chiama il fantasma?,3,True,True,Stayed Correct
+un fantasma a pallini,Come si sente Macchia con il lenzuolo a pallini?,3,False,False,Stayed Wrong
+un fantasma a pallini,Con cosa si macchia alla cioccolateria?,3,True,True,Stayed Correct
+un fantasma a pallini,Con cosa si macchia nel prato?,3,True,True,Stayed Correct
+un fantasma a pallini,Cosa deve fare ogni mattina Macchia?,3,True,True,Stayed Correct
+un fantasma a pallini,Cosa fa Macchia alla fine della storia?,3,False,False,Stayed Wrong
+un fantasma a pallini,Cosa fa il fantasma ogni notte?,3,True,True,Stayed Correct
+un fantasma a pallini,Dove compra il nuovo lenzuolo?,3,True,True,Stayed Correct
+un fantasma a pallini,Dove si macchia di pomodoro?,3,False,False,Stayed Wrong
+un fantasma a pallini,Perché Macchia compra un lenzuolo a pallini?,3,True,True,Stayed Correct
+un libro divertente,Chi sono le protagoniste?,4,True,True,Stayed Correct
+un libro divertente,Come si chiama il libro che sta leggendo Giulia?,4,True,True,Stayed Correct
+un libro divertente,Come termina la telefonata?,4,True,True,Stayed Correct
+un libro divertente,Com’è la copertina del libro?,4,True,True,Stayed Correct
+un libro divertente,Cosa decide Paola di fare?,4,True,True,Stayed Correct
+un libro divertente,Cosa fa Giulia un lunedì sera?,4,True,True,Stayed Correct
+un libro divertente,Cosa racconta Giulia a Paola?,4,True,True,Stayed Correct
+un libro divertente,Cosa succede mentre legge?,4,True,True,Stayed Correct
+un libro divertente,Dove si trova il libro in biblioteca?,4,False,True,Improved
+un libro divertente,Quanti capitoli ha già letto Giulia?,4,False,True,Improved
+un vento bellissimo,A Simone piace volare?,3,True,True,Stayed Correct
+un vento bellissimo,Che tempo fa?,3,True,True,Stayed Correct
+un vento bellissimo,Chi sono i protagonisti della storia?,3,True,True,Stayed Correct
+un vento bellissimo,Come reagisce Filippo Maria al vento?,4,False,False,Stayed Wrong
+un vento bellissimo,Come si sente Filippo Maria alla fine?,3,True,True,Stayed Correct
+un vento bellissimo,Cosa dice Filippo Maria a Simone?,3,True,True,Stayed Correct
+un vento bellissimo,Cosa portano con sé i bambini?,3,True,True,Stayed Correct
+un vento bellissimo,Cosa succede all’ombrello di Filippo Maria?,3,True,True,Stayed Correct
+un vento bellissimo,Cosa teme Simone?,3,True,True,Stayed Correct
+un vento bellissimo,Dove stanno andando i bambini?,3,True,True,Stayed Correct
+una bella sorpresa,Che animale disegna Angelo?,2,True,True,Stayed Correct
+una bella sorpresa,Che animale disegna Maura?,2,True,True,Stayed Correct
+una bella sorpresa,Chi chiama i bambini?,2,True,True,Stayed Correct
+una bella sorpresa,Come si sentono i bambini alla fine?,2,False,False,Stayed Wrong
+una bella sorpresa,Come viene descritto il gattino?,2,True,False,Worsened
+una bella sorpresa,Cosa disegna Maura?,2,True,True,Stayed Correct
+una bella sorpresa,Cosa stanno facendo Maura e Angelo?,2,True,True,Stayed Correct
+una bella sorpresa,Cosa trovano i bambini uscendo?,2,True,True,Stayed Correct
+una bella sorpresa,Cosa vuole mettere Angelo nel giardino?,2,True,True,Stayed Correct
+una bella sorpresa,Di che colore è il gattino disegnato da Angelo?,3,True,False,Worsened
+zanzare,Come sono le zanzare a Oirartnoc?,4,True,True,Stayed Correct
+zanzare,Come sono le zanzare descritte nel testo?,5,False,False,Stayed Wrong
+zanzare,Com’era l’estate in quel paese?,4,True,True,Stayed Correct
+zanzare,Cosa facevano le zanzare verso sera?,4,True,True,Stayed Correct
+zanzare,Cosa indossavano le zanzare quando si avvicinavano all’erba?,4,True,True,Stayed Correct
+zanzare,Cosa mangiano le zanzare?,4,True,True,Stayed Correct
+zanzare,Cosa non fanno mai le zanzare lì?,5,False,True,Improved
+zanzare,Cosa pensavano i bambini di quel posto?,4,False,False,Stayed Wrong
+zanzare,Di cosa sono golose?,4,True,True,Stayed Correct
+zanzare,Dove si trova Oirartnoc?,4,True,True,Stayed Correct

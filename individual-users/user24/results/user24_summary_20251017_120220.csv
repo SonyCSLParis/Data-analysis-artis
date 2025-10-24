@@ -1,0 +1,15 @@
+Metric,Value
+Overall Accuracy (%),90.0
+Total Questions Analyzed,100
+Total Stories,10
+Best Story Accuracy (%),100.0
+Worst Story Accuracy (%),70.0
+Average Story Accuracy (%),90.0
+Standard Deviation (%),10.5
+Best Story Title,henri matisse
+Worst Story Title,il conte dracula
+Early Period Accuracy (%),73.1
+Late Period Accuracy (%),89.9
+Temporal Improvement (%),+16.8
+Questions with Multiple Attempts,91
+Analysis Date,20251017_120220

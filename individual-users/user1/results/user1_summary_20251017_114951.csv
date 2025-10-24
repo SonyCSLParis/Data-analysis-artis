@@ -1,0 +1,15 @@
+Metric,Value
+Overall Accuracy (%),91.0
+Total Questions Analyzed,100
+Total Stories,10
+Best Story Accuracy (%),100.0
+Worst Story Accuracy (%),80.0
+Average Story Accuracy (%),91.0
+Standard Deviation (%),8.8
+Best Story Title,i doni di mio padre
+Worst Story Title,davanti al portone
+Early Period Accuracy (%),75.2
+Late Period Accuracy (%),91.5
+Temporal Improvement (%),+16.3
+Questions with Multiple Attempts,100
+Analysis Date,20251017_114951

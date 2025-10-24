@@ -1,0 +1,92 @@
+Story_Title,Question,Attempt_Count,First_Correct,Last_Correct,Improvement_Pattern
+davanti al portone,Chi si affaccia alla finestra?,3,True,True,Stayed Correct
+davanti al portone,Chi si arrabbia per il baccano?,3,True,True,Stayed Correct
+davanti al portone,Come definisce il signor Veneranda quella casa?,2,True,True,Stayed Correct
+davanti al portone,Come termina la situazione?,3,True,False,Worsened
+davanti al portone,Cosa fa alla fine il signor Veneranda?,3,True,False,Worsened
+davanti al portone,Cosa pensa il signor Veneranda del dialogo?,3,True,True,Stayed Correct
+davanti al portone,Cosa vuole fare il signore alla finestra?,2,True,True,Stayed Correct
+davanti al portone,Davanti a cosa si ferma il signor Veneranda?,2,True,True,Stayed Correct
+davanti al portone,Perché il signor Veneranda fischiava?,3,True,True,Stayed Correct
+davanti al portone,Qual è la reazione del signore al terzo piano?,3,False,True,Improved
+destinazione norvegia,Chi non soffriva mai il mal di mare?,2,True,True,Stayed Correct
+destinazione norvegia,Come descrive l’autore Tjøme?,2,True,True,Stayed Correct
+destinazione norvegia,Come viaggiavano?,2,True,True,Stayed Correct
+destinazione norvegia,Con chi viaggiava?,2,True,True,Stayed Correct
+destinazione norvegia,Cosa amavano i bambini della traversata?,2,True,True,Stayed Correct
+destinazione norvegia,Cosa faceva la mamma prima del viaggio?,3,True,False,Worsened
+destinazione norvegia,Cosa facevano i bambini durante il viaggio in battello costiero?,2,True,True,Stayed Correct
+destinazione norvegia,Dove andava l’autore in vacanza da bambino?,2,True,True,Stayed Correct
+destinazione norvegia,Dove arrivavano alla fine?,3,False,True,Improved
+destinazione norvegia,Quanto durava il viaggio?,2,True,True,Stayed Correct
+henri matisse,Dove nacque Henri Matisse?,2,False,True,Improved
+i doni di mio padre,Chi faceva i discorsi più belli con l’autore?,2,True,True,Stayed Correct
+i doni di mio padre,Come erano i caratteri dei libri?,3,False,True,Improved
+i doni di mio padre,Cosa contenevano questi libri secondo l’autore?,2,False,True,Improved
+i doni di mio padre,Cosa portava il papà ogni sera?,2,False,True,Improved
+i doni di mio padre,Cosa prometteva il papà all’autore?,2,True,True,Stayed Correct
+i doni di mio padre,In quale formato erano tutti i libri?,3,False,True,Improved
+i doni di mio padre,Perché l’autore leggeva tanto?,2,True,True,Stayed Correct
+i doni di mio padre,Qual era il secondo libro ricevuto?,3,False,True,Improved
+i doni di mio padre,Quale fu il primo libro che il padre regalò all’autore?,3,False,True,Improved
+i doni di mio padre,Quale sentimento lega l’autore ai libri?,2,True,True,Stayed Correct
+il conte dracula,Chi accoglie Mister Harker al castello?,3,True,False,Worsened
+il conte dracula,Come definisce i lupi il conte?,3,True,True,Stayed Correct
+il conte dracula,Com’era la stretta di mano del conte?,3,True,True,Stayed Correct
+il conte dracula,Cosa faceva la bocca del conte quando sorrideva?,4,True,True,Stayed Correct
+il conte dracula,Cosa osservava Mister Harker dalla finestra?,4,False,False,Stayed Wrong
+il conte dracula,Cosa spuntava dal centro dei palmi di Dracula?,6,False,True,Improved
+il conte dracula,Dove alloggiò Mister Harker?,3,True,True,Stayed Correct
+il conte dracula,Perché Dracula non cenò con Mister Harker?,3,True,True,Stayed Correct
+il conte dracula,Quale suono si udì fuori dal castello?,4,False,True,Improved
+il conte dracula,Quando il conte sarebbe partito?,3,True,False,Worsened
+il gatto osiride,Chi propone di avere un gatto?,2,True,True,Stayed Correct
+il gatto osiride,Come reagisce la mamma alla vista del gatto?,2,True,True,Stayed Correct
+il gatto osiride,Come si chiama il gatto?,2,True,True,Stayed Correct
+il gatto osiride,Come si comporta Osiride dalla nonna?,3,False,True,Improved
+il gatto osiride,Cosa decide di fare Elenuccia?,2,True,True,Stayed Correct
+il gatto osiride,Cosa fa Osiride per dispetto al papà?,2,True,True,Stayed Correct
+il gatto osiride,Cosa fa Osiride quando capisce che si parla male di lui?,2,True,True,Stayed Correct
+il gatto osiride,Dove trova il gatto Elenuccia?,3,False,True,Improved
+il gatto osiride,Dove vive Osiride alla fine?,2,True,True,Stayed Correct
+il gatto osiride,Qual è la reazione del papà?,2,True,True,Stayed Correct
+il lavoro di mio padre,Che compito aveva assegnato la maestra?,2,True,True,Stayed Correct
+il lavoro di mio padre,Chi è il padre di Prisca?,2,True,True,Stayed Correct
+il lavoro di mio padre,Come reagisce la maestra al tema?,2,True,True,Stayed Correct
+il lavoro di mio padre,Come risponde Prisca alla maestra?,2,True,False,Worsened
+il lavoro di mio padre,Come si sente Prisca quando viene sgridata?,2,True,True,Stayed Correct
+il lavoro di mio padre,Cosa ha scritto Prisca nel tema?,3,True,True,Stayed Correct
+il lavoro di mio padre,Cosa ha visto Prisca nel sacco del padre?,2,True,True,Stayed Correct
+il lavoro di mio padre,Dove ha portato il padre la famiglia?,2,True,True,Stayed Correct
+il lavoro di mio padre,Perché Prisca ha scritto così?,2,True,True,Stayed Correct
+il lavoro di mio padre,"Secondo Prisca, il suo tema era…",2,True,True,Stayed Correct
+la scomparsa del lunedì,Chi aspetta il bambino alla fine?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Chi fa cambiare idea al lunedì?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Chi forma una fila davanti alla casa del lunedì?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Chi prende in giro il lunedì?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Come finisce la storia?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Come si sente il lunedì alla fine?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Cosa fa il lunedì alla fine?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Perché il bambino piange?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Perché il lunedì si chiude in casa?,3,True,True,Stayed Correct
+la scomparsa del lunedì,Qual è la reazione delle persone alla scomparsa del lunedì?,3,True,True,Stayed Correct
+verso i mari del sud,Chi è il comandante della nave?,2,True,True,Stayed Correct
+verso i mari del sud,Come si salva il protagonista?,2,True,True,Stayed Correct
+verso i mari del sud,Come si sente il protagonista toccando il fondale?,2,False,False,Stayed Wrong
+verso i mari del sud,Contro cosa si schianta la nave?,2,True,True,Stayed Correct
+verso i mari del sud,Cosa accade a novembre?,2,True,True,Stayed Correct
+verso i mari del sud,Cosa succede alla scialuppa?,3,False,False,Stayed Wrong
+verso i mari del sud,In quale data parte il protagonista?,2,True,True,Stayed Correct
+verso i mari del sud,Qual era la destinazione della nave?,2,True,True,Stayed Correct
+verso i mari del sud,Qual è il nome della nave?,2,True,True,Stayed Correct
+verso i mari del sud,Quanti compagni riescono a scappare con il protagonista?,3,False,True,Improved
+vita in famiglia,Chi si sedeva a capotavola?,3,False,True,Improved
+vita in famiglia,Come descrive l’autore i pranzi in famiglia?,2,False,True,Improved
+vita in famiglia,Come era la nonna?,3,False,True,Improved
+vita in famiglia,Com’era il padre dell’autore?,2,True,True,Stayed Correct
+vita in famiglia,Com’era la casa dove è nato l’autore?,2,True,True,Stayed Correct
+vita in famiglia,Cosa faceva il padre appena tornava a casa?,3,False,True,Improved
+vita in famiglia,Cosa faceva il padre se il figlio aveva la febbre?,2,True,True,Stayed Correct
+vita in famiglia,Perché odiava il pallone?,2,True,True,Stayed Correct
+vita in famiglia,Quale gioco odiava il padre?,2,True,True,Stayed Correct
+vita in famiglia,Quanto dovevano durare le scarpe secondo il padre?,2,False,False,Stayed Wrong

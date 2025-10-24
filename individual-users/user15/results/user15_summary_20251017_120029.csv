@@ -1,0 +1,15 @@
+Metric,Value
+Overall Accuracy (%),79.0
+Total Questions Analyzed,100
+Total Stories,10
+Best Story Accuracy (%),100.0
+Worst Story Accuracy (%),60.0
+Average Story Accuracy (%),79.0
+Standard Deviation (%),12.0
+Best Story Title,un libro divertente
+Worst Story Title,l'orologio
+Early Period Accuracy (%),79.1
+Late Period Accuracy (%),76.6
+Temporal Improvement (%),-2.5
+Questions with Multiple Attempts,100
+Analysis Date,20251017_120029

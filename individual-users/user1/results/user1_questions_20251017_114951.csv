@@ -1,0 +1,101 @@
+Story_Title,Question,User_Answer,Correct_Answer,Is_Correct
+verso i mari del sud,In quale data parte il protagonista?,4 maggio 1699,4 maggio 1699,True
+verso i mari del sud,Qual è il nome della nave?,antilope,antilope,True
+verso i mari del sud,Chi è il comandante della nave?,prichard,prichard,True
+verso i mari del sud,Qual era la destinazione della nave?,indie orientali,indie orientali,True
+verso i mari del sud,Cosa accade a novembre?,una tempesta li porta fuori rotta,una tempesta li porta fuori rotta,True
+verso i mari del sud,Contro cosa si schianta la nave?,uno scoglio,uno scoglio,True
+verso i mari del sud,Quanti compagni riescono a scappare con il protagonista?,due,due,True
+verso i mari del sud,Cosa succede alla scialuppa?,si rompe,si rovescia,False
+verso i mari del sud,Come si salva il protagonista?,toccando il fondale sabbioso,toccando il fondale sabbioso,True
+verso i mari del sud,Come si sente il protagonista toccando il fondale?,impaurito,sollevato,False
+davanti al portone,Davanti a cosa si ferma il signor Veneranda?,un portone,un portone,True
+davanti al portone,Chi si affaccia alla finestra?,un signore,un signore,True
+davanti al portone,Cosa vuole fare il signore alla finestra?,lanciargli la chiave,lanciargli la chiave,True
+davanti al portone,Come definisce il signor Veneranda quella casa?,un manicomio,un manicomio,True
+davanti al portone,Qual è la reazione del signore al terzo piano?,è confuso,è confuso,True
+davanti al portone,Perché il signor Veneranda fischiava?,non si sa,non si sa,True
+davanti al portone,Chi si arrabbia per il baccano?,un inquilino,un inquilino,True
+davanti al portone,Cosa fa alla fine il signor Veneranda?,aspetta ancora,saluta e se ne va,False
+davanti al portone,Cosa pensa il signor Veneranda del dialogo?,che sia assurdo,che sia assurdo,True
+davanti al portone,Come termina la situazione?,con un litigio,nessuna delle precedenti,False
+destinazione norvegia,Dove andava l’autore in vacanza da bambino?,in norvegia,in norvegia,True
+destinazione norvegia,Con chi viaggiava?,con tutta la famiglia e la tata,con tutta la famiglia e la tata,True
+destinazione norvegia,Come viaggiavano?,in nave e treno,in nave e treno,True
+destinazione norvegia,Quanto durava il viaggio?,quattro giorni,quattro giorni,True
+destinazione norvegia,Dove arrivavano alla fine?,sull’isola di tjøme,sull’isola di tjøme,True
+destinazione norvegia,Cosa facevano i bambini durante il viaggio in battello costiero?,erano ansiosi e felici,erano ansiosi e felici,True
+destinazione norvegia,Cosa faceva la mamma prima del viaggio?,prenotava alcune tappe,prenotava tutto e preparava i bagagli,False
+destinazione norvegia,Come descrive l’autore Tjøme?,un luogo meraviglioso,un luogo meraviglioso,True
+destinazione norvegia,Chi non soffriva mai il mal di mare?,la mamma,la mamma,True
+destinazione norvegia,Cosa amavano i bambini della traversata?,il mare calmo e gli imbarcaderi,il mare calmo e gli imbarcaderi,True
+i doni di mio padre,Chi faceva i discorsi più belli con l’autore?,il papà,il papà,True
+i doni di mio padre,Cosa portava il papà ogni sera?,regali,regali,True
+i doni di mio padre,Quale fu il primo libro che il padre regalò all’autore?,le mille e una notte,le mille e una notte,True
+i doni di mio padre,Cosa prometteva il papà all’autore?,un libro nuovo dopo averne finito uno,un libro nuovo dopo averne finito uno,True
+i doni di mio padre,In quale formato erano tutti i libri?,quadrato,quadrato,True
+i doni di mio padre,Qual era il secondo libro ricevuto?,le fiabe dei fratelli grimm,le fiabe dei fratelli grimm,True
+i doni di mio padre,Cosa contenevano questi libri secondo l’autore?,ispirazione per la vita,ispirazione per la vita,True
+i doni di mio padre,Come erano i caratteri dei libri?,sempre della stessa grandezza,sempre della stessa grandezza,True
+i doni di mio padre,Perché l’autore leggeva tanto?,per amore di suo padre,per amore di suo padre,True
+i doni di mio padre,Quale sentimento lega l’autore ai libri?,affetto,affetto,True
+il lavoro di mio padre,Che compito aveva assegnato la maestra?,scrivere un tema,scrivere un tema,True
+il lavoro di mio padre,Cosa ha scritto Prisca nel tema?,che suo padre ruba,che suo padre ruba,True
+il lavoro di mio padre,Cosa ha visto Prisca nel sacco del padre?,gioielli e denaro,gioielli e denaro,True
+il lavoro di mio padre,Dove ha portato il padre la famiglia?,in america,in america,True
+il lavoro di mio padre,Come reagisce la maestra al tema?,si arrabbia,si arrabbia,True
+il lavoro di mio padre,Chi è il padre di Prisca?,un avvocato,un avvocato,True
+il lavoro di mio padre,Perché Prisca ha scritto così?,perché le piace scrivere temi di fantasia,perché le piace scrivere temi di fantasia,True
+il lavoro di mio padre,Come si sente Prisca quando viene sgridata?,sconcertata,sconcertata,True
+il lavoro di mio padre,"Secondo Prisca, il suo tema era…",bello,bello,True
+il lavoro di mio padre,Come risponde Prisca alla maestra?,dice la verità sulla professione di suo padre,dice che fa sempre temi di fantasia,False
+vita in famiglia,Com’era la casa dove è nato l’autore?,piena di gente,piena di gente,True
+vita in famiglia,Chi si sedeva a capotavola?,la nonna materna,la nonna materna,True
+vita in famiglia,Come era la nonna?,piccola ma eretta e fiera,piccola ma eretta e fiera,True
+vita in famiglia,Com’era il padre dell’autore?,un burbero benefico,un burbero benefico,True
+vita in famiglia,Cosa faceva il padre se il figlio aveva la febbre?,restava a casa,restava a casa,True
+vita in famiglia,Quale gioco odiava il padre?,il pallone,il pallone,True
+vita in famiglia,Perché odiava il pallone?,faceva consumare le scarpe,faceva consumare le scarpe,True
+vita in famiglia,Quanto dovevano durare le scarpe secondo il padre?,dieci anni per gli adulti e meno anni per i ragazzi,dieci anni per gli adulti e quattro anni per i ragazzi,False
+vita in famiglia,Cosa faceva il padre appena tornava a casa?,si toglieva le scarpe per farle durare,si toglieva le scarpe per farle durare,True
+vita in famiglia,Come descrive l’autore i pranzi in famiglia?,come una festa,come una festa,True
+la testimone oculare,A che ora si verifica l'incidente?,quasi le 20,quasi le 20,True
+la testimone oculare,Chi è coinvolto nell’incidente con la macchina?,un ciclista,un ciclista,True
+la testimone oculare,Chi viene chiamato a risolvere la questione?,la polizia,la polizia,True
+la testimone oculare,Chi sostiene di aver visto l'incidente?,una donna alla finestra,una donna alla finestra,True
+la testimone oculare,Come si chiama il maresciallo?,hornig,hornig,True
+la testimone oculare,Come reagisce la donna quando viene interrogata?,nega di conoscere i coinvolti,nega di conoscere i coinvolti,True
+la testimone oculare,Chi accusa la donna di mentire?,marquard,l’automobilista,False
+la testimone oculare,Cosa fa la donna quando viene accusata?,tira qualcosa,minaccia di dimostrare chi mente,False
+la testimone oculare,Come si comporta il maresciallo alla fine?,accusa la donna di essere bugiarda,accusa la donna di essere bugiarda,True
+la testimone oculare,Come finisce la situazione?,con il maresciallo che smaschera la bugia,con il maresciallo che smaschera la bugia,True
+il gatto osiride,Chi propone di avere un gatto?,la nonna,la nonna,True
+il gatto osiride,Come si chiama il gatto?,osiride,osiride,True
+il gatto osiride,Dove trova il gatto Elenuccia?,dalla nonna,dalla nonna,True
+il gatto osiride,Come reagisce la mamma alla vista del gatto?,si arrabbia,si arrabbia,True
+il gatto osiride,Cosa fa Osiride quando capisce che si parla male di lui?,fa una cacchina,fa una cacchina,True
+il gatto osiride,Qual è la reazione del papà?,è allergico ai gatti,è allergico ai gatti,True
+il gatto osiride,Cosa fa Osiride per dispetto al papà?,mastica le foglie del bonsai,mastica le foglie del bonsai,True
+il gatto osiride,Cosa decide di fare Elenuccia?,riportarlo dalla nonna,riportarlo dalla nonna,True
+il gatto osiride,Dove vive Osiride alla fine?,dalla nonna,dalla nonna,True
+il gatto osiride,Come si comporta Osiride dalla nonna?,non fa nulla di male,non fa nulla di male,True
+la scomparsa del lunedì,Perché il lunedì si chiude in casa?,è offeso,è offeso,True
+la scomparsa del lunedì,Chi prende in giro il lunedì?,la domenica,la domenica,True
+la scomparsa del lunedì,Qual è la reazione delle persone alla scomparsa del lunedì?,si lamentano,si lamentano,True
+la scomparsa del lunedì,Chi forma una fila davanti alla casa del lunedì?,la gente,la gente,True
+la scomparsa del lunedì,Chi fa cambiare idea al lunedì?,un bambino,un bambino,True
+la scomparsa del lunedì,Perché il bambino piange?,non può vedere la nonna,non può vedere la nonna,True
+la scomparsa del lunedì,Come si sente il lunedì alla fine?,vergognoso,vergognoso,True
+la scomparsa del lunedì,Cosa fa il lunedì alla fine?,aspetta la nonna con il bambino,aspetta la nonna con il bambino,True
+la scomparsa del lunedì,Come finisce la storia?,il lunedì ritorna,il lunedì ritorna,True
+la scomparsa del lunedì,Chi aspetta il bambino alla fine?,la nonna,la nonna,True
+tre volte bau,Chi vola sopra la pianura?,un aquilotto,un aquilotto,True
+tre volte bau,Cosa deve portare l’aquilotto per essere accolto dalle aquile adulte?,una pecora,una pecora,True
+tre volte bau,Dove trova il gregge l’aquilotto?,lungo un fiume,lungo un fiume,True
+tre volte bau,Cosa afferra l’aquilotto in picchiata?,una pecora,una pecora,True
+tre volte bau,Cosa dice l’aquilotto all’aquila reale?,di aver compiuto la missione,di aver compiuto la missione,True
+tre volte bau,Che verso fa l’animale rapito?,"bau, bau, bau","bau, bau, bau",True
+tre volte bau,Come reagiscono le aquile adulte?,si arrabbiano,si arrabbiano,True
+tre volte bau,Cosa deve fare l’aquilotto?,riportare l’animale,riportare l’animale,True
+tre volte bau,Come si sente l’aquilotto?,imbarazzato,imbarazzato,True
+tre volte bau,Come si salva la pecorella?,grazie al verso del cane imparato,grazie al verso del cane imparato,True
