@@ -5,7 +5,7 @@ It supports data cleaning, merging, statistical analysis, and generation of publ
 
 ## Folder Structure
 
-- `correlations/`: Jupyter notebooks and scripts for correlation analysis  
+- `correlations`: Jupyter notebooks and scripts for correlation analysis  
 - `dati.json` : Raw data from the platform
 - `finals-article` : Final folders containing plot inserted into the thesis
 - `json-texts`: Json with texts inserted in the platform 
