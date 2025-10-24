@@ -11,6 +11,7 @@ It supports data cleaning, merging, statistical analysis, and generation of publ
 - `json-texts`: Json with texts inserted in the platform 
 - `json-with-correct-answers`: Json with texts inserted in the platform with correct answers
 - `pre-post`: Folder containing analysis on the pre and post clinical assessments
+- `lexical-test`: Folder containing analysis for the lexical tests
 - `individual-user`: Code for individual users for generating PDF report and on user stats 
 - `user_demographics`: Code for creating user demographics plot
 - `all_user`: Code for creating accuracy plots for all users
