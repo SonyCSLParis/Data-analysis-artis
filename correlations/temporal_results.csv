@@ -1,0 +1,11 @@
+User,Golden_File_Used,Total_Attempts,Early_Period_Attempts,Late_Period_Attempts,Early_Accuracy_Percent,Late_Accuracy_Percent,Accuracy_Improvement_Percent,Study_Period_Days,First_Attempt_Date,Last_Attempt_Date,Status
+user1,quinta-elementare_with_answers.json,235,117,118,75.21,91.53,16.31,73,2025-07-28,2025-10-10,Success
+user2,quarta-elementare_with_answers.json,84,42,42,78.57,100.0,21.43,69,2025-07-30,2025-10-08,Success
+user3,terza-elementare_with_answers.json,271,135,136,78.52,73.53,-4.99,80,2025-07-25,2025-10-13,Success
+user8,terza-elementare_with_answers.json,273,136,137,78.68,71.53,-7.14,80,2025-07-25,2025-10-13,Success
+user9,terza-elementare_with_answers.json,181,90,91,77.78,67.03,-10.74,80,2025-07-25,2025-10-13,Success
+user10,seconda-elementare_with_answers.json,257,128,129,74.22,75.97,1.75,76,2025-07-29,2025-10-13,Success
+user11,seconda-elementare_with_answers.json,194,97,97,79.38,75.26,-4.12,73,2025-07-29,2025-10-10,Success
+user12,seconda-elementare_with_answers.json,248,124,124,72.58,75.81,3.23,79,2025-07-29,2025-10-16,Success
+user15,seconda-elementare_with_answers.json,265,132,133,78.79,78.2,-0.59,76,2025-07-29,2025-10-13,Success
+user24,quinta-elementare_with_answers.json,191,95,96,72.63,93.75,21.12,69,2025-07-28,2025-10-06,Success
