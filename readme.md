@@ -16,7 +16,7 @@ It supports data cleaning, merging, statistical analysis, and generation of publ
 - `user_demographics`: Code for creating user demographics plot
 - `all_user`: Code for creating accuracy plots for all users
 - `data_analysis_check`: Code for checking the data
-- `title_harmonization`: Code for preprocessing titles 
+- `title_harmonization`: Code for preprocessing titles  
 
 ## Requirements
 
